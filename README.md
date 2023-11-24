@@ -1,16 +1,18 @@
-Projeto 03 
-O Explorer é um programa completo que reúne tudo o que você precisa para desenvolver suas <br>
-habilidades técnicas e comportamentais, com acompanhamento de uma equipe qualificada da Rocketseat,<br>
-para alcançar sua primeira vaga no mercado de programação.
+Projeto 3<br>
+O Explorer é um programa completo que reúne tudo o que você precisa para desenvolver suas habilidades técnicas e comportamentais,<br> com acompanhamento de uma equipe qualificada da Rocketseat, para alcançar sua primeira vaga no mercado de programação.
 
-🚀 Tecnologias
+
+## 🚀 Tecnologias
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-HTML e CSS
-JavaScript
-Git e Github
-Figma
-💻 Projeto
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
+
+## 💻 Projeto
+
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-Acesse o projeto finalizado, online.
+Acesse o projeto finalizado,<a href="https://KelmeCoder.github.io/Projeto-3-RocketSeat" target="blank"> online.</a>
